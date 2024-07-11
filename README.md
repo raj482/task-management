@@ -1,4 +1,7 @@
-
+## downlowd project 
+ * visit this repository link https://github.com/raj482/task-management.git
+ * switch master branch and download project or clone it
+ * folow README.md file
 ## requirement
    * php 8.2
    * node 20 
