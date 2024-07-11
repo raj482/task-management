@@ -3,7 +3,8 @@
    * php 8.2
    * node 20 
    * mailtraip account
-   
+## database setup 
+   * setup mysql database by using .env.example
 ## configration
    use .env.example for configration
    
